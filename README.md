@@ -1,1 +1,1 @@
-# Macos-shortcuts
+Small utility shortcuts
