@@ -1,4 +1,4 @@
-#Small utility shortcuts
+Small utility shortcuts
 
 Close all but focused app https://www.icloud.com/shortcuts/bcf9b079baa24e1b84099dcf1bac8db6
 
